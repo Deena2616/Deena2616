@@ -1,14 +1,18 @@
-<h1 align="center">Hi there, I'm Deena 👋</h1>
-<h3 align="center">Software Engineer | Flutter & React.js Developer | Full-Stack Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=220&section=header&text=DEENA%20P&fontSize=58&fontColor=D4AF37&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%26%20React.js%20Developer&descAlignY=58&descSize=20&descColor=E8C766&animation=fadeIn" alt="banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+production-grade+mobile+%26+web+apps;Flutter+%7C+React.js+%7C+Node.js+%7C+Next.js;3%2B+end-to-end+products+shipped;Always+learning%2C+building%2C+improving+🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Engineer-0D0D0D?style=for-the-badge&labelColor=D4AF37&color=0D0D0D" alt="role badge"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deena-panjatcharam-1960a2319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deenarajesh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Deena2616"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://deena2616.github.io/deena-portfolio/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+  <a href="https://www.linkedin.com/in/deena-panjatcharam-1960a2319"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+  <a href="mailto:deenarajesh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D4AF37?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+  <a href="https://github.com/Deena2616"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:B8860B&height=3&width=1000" alt="divider"/>
 </p>
 
 ---
@@ -110,12 +114,12 @@ Full-featured e-commerce app with product listings, cart, Firebase Auth, real-ti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8C766&icon_color=D4AF37&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8C766" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=0D0D0D&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&currStreakNum=E8C766&sideNums=E8C766&dates=8A8A8A" />
 </p>
 
 ---
@@ -128,10 +132,18 @@ Full-featured e-commerce app with product listings, cart, Firebase Auth, real-ti
 ---
 
 <p align="center">
-  <i>🌐 Tamil (Native) · English (Professional) · Telugu (Conversational)</i><br/>
-  <i>📫 Reach me at deenarajesh2000@gmail.com</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:B8860B&height=3&width=1000" alt="divider"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deena2616&color=blue&style=flat" alt="profile views" />
+  <i>🌐 Tamil (Native) · English (Professional) · Telugu (Conversational)</i><br/>
+  <i>📫 deenarajesh2000@gmail.com &nbsp;·&nbsp; 🔗 <a href="https://deena2616.github.io/deena-portfolio/">deena2616.github.io/deena-portfolio</a></i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=100&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deena2616&color=D4AF37&style=flat&label=profile+views" alt="profile views" />
 </p>
