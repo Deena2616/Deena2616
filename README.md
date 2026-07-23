@@ -1,20 +1,8 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e1b4b"/>
-      <stop offset="50%" stop-color="#4338ca"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
-    </linearGradient>
-    <linearGradient id="waveDark" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#312e81" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.55"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="260" fill="url(#bgDark)"/>
-  <path d="M0,190 C250,140 400,220 650,180 C900,140 1050,210 1200,170 L1200,260 L0,260 Z" fill="url(#waveDark)"/>
-  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="4">DEENA P</text>
-  <text x="600" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#e0e7ff" text-anchor="middle">Software Engineer &#8226; Flutter &amp; React.js Developer</text>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img width="100%" alt="banner" src="assets/banner-light.svg">
+</picture>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-FULL--STACK%20ENGINEER-6366F1?style=for-the-badge&labelColor=4338CA&color=6366F1&logoColor=white" alt="role badge"/>
@@ -129,22 +117,22 @@ Full-featured e-commerce app with product listings, cart, Firebase Auth, real-ti
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=818CF8&text_color=C7D2FE&icon_color=818CF8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81&icon_color=4338CA">
-    <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81&icon_color=4338CA">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&theme=dark&bg_color=transparent&title_color=818CF8&text_color=C7D2FE&icon_color=818CF8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=transparent&title_color=4338CA&text_color=312E81&icon_color=4338CA">
+    <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=transparent&title_color=4338CA&text_color=312E81&icon_color=4338CA">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=818CF8&text_color=C7D2FE">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81">
-    <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&theme=dark&bg_color=transparent&title_color=818CF8&text_color=C7D2FE">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=transparent&title_color=4338CA&text_color=312E81">
+    <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=transparent&title_color=4338CA&text_color=312E81">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=818CF8&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C7D2FE&currStreakNum=C7D2FE&sideNums=C7D2FE&dates=9CA3AF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
-    <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=transparent&stroke=818CF8&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C7D2FE&currStreakNum=C7D2FE&sideNums=C7D2FE&dates=9CA3AF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=transparent&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
+    <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=transparent&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
   </picture>
 </p>
 
@@ -165,9 +153,9 @@ Full-featured e-commerce app with product listings, cart, Firebase Auth, real-ti
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:4F46E5&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=100&section=footer">
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=100&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img width="100%" alt="footer" src="assets/footer-light.svg">
 </picture>
 
 <p align="center">
