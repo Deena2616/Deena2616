@@ -1,23 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2B2B2B&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=E8E8E8&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=BFBFBF" alt="banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:4F46E5&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=E0E7FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=312E81&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=4338CA">
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=312E81&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=4338CA">
+</picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-FULL--STACK%20ENGINEER-C0C0C0?style=for-the-badge&labelColor=0D0D0D&color=1A1A1A" alt="role badge"/>
+  <img src="https://img.shields.io/badge/-FULL--STACK%20ENGINEER-6366F1?style=for-the-badge&labelColor=4338CA&color=6366F1&logoColor=white" alt="role badge"/>
 </p>
 
 <p align="center">
-  <a href="https://deena2616.github.io/deena-portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=C0C0C0&labelColor=0D0D0D"/></a>
-  <a href="https://www.linkedin.com/in/deena-panjatcharam-1960a2319"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=0D0D0D"/></a>
-  <a href="mailto:deenarajesh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=C0C0C0&labelColor=0D0D0D"/></a>
-  <a href="https://github.com/Deena2616"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=C0C0C0&labelColor=0D0D0D"/></a>
+  <a href="https://deena2616.github.io/deena-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deena-panjatcharam-1960a2319"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deenarajesh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Deena2616"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2B2B,100:0D0D0D&height=3&width=1000" alt="divider"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:818CF8&height=3&width=1000" alt="divider" width="100%"/>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About me
 
 - 🚀 Software Engineer at **JBB Softech**, building production-grade mobile & web apps
 - 🧩 Shipped **3 end-to-end products**: **Appifyours** (no-code app builder), **ChurchHub** (multi-tenant church management system), and **Visual Walk-In** (360° virtual tour creator)
@@ -29,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,java,js,html,css,bootstrap,androidstudio" />
@@ -49,7 +51,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
 <table>
 <tr>
@@ -111,37 +113,51 @@ Full-featured e-commerce app with product listings, cart, Firebase Auth, real-ti
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=BFBFBF&icon_color=C0C0C0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C0C0C0&text_color=BFBFBF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=818CF8&text_color=C7D2FE&icon_color=818CF8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81&icon_color=4338CA">
+    <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Deena2616&show_icons=true&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81&icon_color=4338CA">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=818CF8&text_color=C7D2FE">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81">
+    <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena2616&layout=compact&hide_border=true&bg_color=00000000&title_color=4338CA&text_color=312E81">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=0D0D0D&stroke=C0C0C0&ring=C0C0C0&fire=C0C0C0&currStreakLabel=C0C0C0&sideLabels=BFBFBF&currStreakNum=BFBFBF&sideNums=BFBFBF&dates=8A8A8A" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=818CF8&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=C7D2FE&currStreakNum=C7D2FE&sideNums=C7D2FE&dates=9CA3AF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
+    <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Deena2616&hide_border=true&background=00000000&stroke=4338CA&ring=4338CA&fire=4338CA&currStreakLabel=4338CA&sideLabels=312E81&currStreakNum=312E81&sideNums=312E81&dates=6B7280">
+  </picture>
 </p>
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education & certifications
 
 - **B.Tech in Information Technology** — University College of Engineering, Tindivanam, TN (2019–2023)
 - **Java Full-Stack Development Certification** (2024) — Java, Spring Boot, React.js, MySQL
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2B2B,100:0D0D0D&height=3&width=1000" alt="divider"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:818CF8&height=3&width=1000" alt="divider" width="100%"/>
 
 <p align="center">
   <i>🌐 Tamil (Native) · English (Professional) · Telugu (Conversational)</i><br/>
   <i>📫 deenarajesh2000@gmail.com &nbsp;·&nbsp; 🔗 <a href="https://deena2616.github.io/deena-portfolio/">deena2616.github.io/deena-portfolio</a></i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2B2B2B&height=100&section=footer" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:4F46E5&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=100&section=footer">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=100&section=footer">
+</picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deena2616&color=lightgrey&style=flat&label=profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Deena2616&color=6366F1&style=flat&label=profile+views" alt="profile views" />
 </p>
