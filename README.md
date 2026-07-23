@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:7c3aed&height=200&section=header&text=DEENA%20P&fontSize=56&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descSize=20&descAlign=50&descAlignY=58&descColor=e0e7ff&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:7c3aed&height=200&section=header&text=DEENA%20P&fontSize=56&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer&descSize=20&descAlign=50&descAlignY=58&descColor=e0e7ff&animation=fadeIn" alt="banner"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-FULL--STACK%20ENGINEER-6366F1?style=for-the-badge&labelColor=4338CA&color=6366F1&logoColor=white" alt="role badge"/>
