@@ -1,8 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:4F46E5&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=E0E7FF">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=312E81&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=4338CA">
-  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,100:C7D2FE&height=200&section=header&text=DEENA%20P&fontSize=55&fontColor=312E81&fontAlignY=35&desc=Software%20Engineer%20-%20Flutter%20and%20React.js%20Developer&descAlignY=58&descSize=18&descColor=4338CA">
-</picture>
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="50%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="waveDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#312e81" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bgDark)"/>
+  <path d="M0,190 C250,140 400,220 650,180 C900,140 1050,210 1200,170 L1200,260 L0,260 Z" fill="url(#waveDark)"/>
+  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="4">DEENA P</text>
+  <text x="600" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#e0e7ff" text-anchor="middle">Software Engineer &#8226; Flutter &amp; React.js Developer</text>
+</svg>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-FULL--STACK%20ENGINEER-6366F1?style=for-the-badge&labelColor=4338CA&color=6366F1&logoColor=white" alt="role badge"/>
